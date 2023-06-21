@@ -1,0 +1,339 @@
+FREE TIER --> Rs 1200:
+    Admins:
+        /admins
+        /pinned
+        /pin
+        /unpin
+        /invitelink
+        /promot
+        /fullpromote
+        /demote
+        /title
+        /admincache
+        /del
+        /purge
+        /purge 
+        /setgtitle 
+        /setgpi
+        /setdesc
+        /setsticker
+
+    Rules:
+        /rules
+        /setrules
+        /clearrules
+
+    AFK:
+        /afk
+        brb
+    
+    Alive:
+        /alive
+    
+    AntiFlood:
+        /flood
+        /setflood
+        /setfloodmode
+
+    Approve:
+        /approval
+        /approve
+        /unapprove
+        /approved
+        /unapproveall
+
+    Backup:
+        /export
+        /import
+
+    Ban:
+        /ban
+        /sban
+        /tban
+        /unban
+        /kick
+        /mute
+        /tmute
+        /unmute
+    
+    Zombies:
+        /zombies 
+        /zombies clean 
+
+    BlackList:
+       /blacklist
+       /addblacklist
+       /unblacklistmultiple
+       /blacklistmode
+
+    BlackList Sticker:
+        /blsticker
+        /addblsticker
+        /rmblsticker
+        /unblsticker
+        /blstickermode
+
+    BlackList Users:
+        /ignore
+        /notice
+        /ignorelist
+
+    Carbon:
+        /carbon
+        /paste
+
+    Cleaner:
+        /cleanblue
+        /ignoreblue
+        /unignoreblue
+        /listblue
+        /gignoreblue
+        /ungignoreblue
+
+    Connection:
+        /connect
+        /connection
+        /disconnect
+        /helpconnect
+
+    Custom Filters:
+        /filters
+        /filter
+        /stop
+        /removeallfilters
+
+    Error Handeling:
+        /errors
+
+    Eval:
+        /exec
+        /py
+        /sh
+    
+    Federation:
+        /newfed
+        /renamefed
+        /delfed
+        /fpromote
+        /fdemote
+        /subfed
+        /unsubfed
+        /setfedlog
+        /unsetfedlog
+        /fbroadcast
+        /fedsubs
+        /fban
+        /unfban
+        /fedinfo
+        /joinfedFederation
+        /leavefed
+        /setfrules
+        /fedadmins
+        /fbanlist
+        /fedchats
+        /chatfed 
+        /fbanstat
+        /fednotif
+        /frules
+    
+    Force Subscribe:
+        /fsub
+        /fedownerhelp
+        /fedadminhelp
+        /feduserhelp
+
+    Get Common Chat:
+        /getchats
+
+    Gban:
+        /gban
+        /ungban
+        /gbanlist
+        /antispam
+
+    Home:
+        /help
+        /start
+
+    Info:
+        /cinfo
+        /uinfo
+        /setbio
+        /bio
+        /setme
+        /me
+        /info
+        /pfp
+
+    Locks:
+        /locktypes
+        /lock
+        /unlock
+        /locks
+
+    Log Channel:
+        /logchannel
+        /setlog
+        /unsetlog
+
+    Mute:
+        /mute
+        /unmute
+        /tmute
+        /tempmute
+
+    Notes:
+        /get
+        /notes
+        /number
+        /save
+        /clear
+        /removeallnotes
+
+    Ping:
+        /ping
+        /sysinfo
+        /ip
+
+    Pipes:
+        /activate_pipe
+        /deactivate_pipe
+        /show_pipes
+
+    Purge:
+        /purge
+        /del
+
+    Quotes:
+        /q
+
+    Raid:
+        /raid
+        /raidactiontime
+        /raidtime
+    
+    Reporting:
+        /report
+        @admins
+        /reports
+
+    Shippering:
+        /couples
+
+    Speed Test:
+        /speedtest
+
+    Stats:
+        /stats
+        /statistics
+
+    Stickers:
+        /stickerid
+        /getsticker
+        /kang
+        /stickers
+        /delsticker
+        /mmf
+        /tiny
+
+    Tag All:
+        /users
+        /all
+        /tagall
+        /utag
+        /mentionall
+        @all
+        @tagall
+        @utag
+        @mentionall
+    
+    Telegraph:
+        /tgm
+        /tgt
+    
+    Eval:
+        /term
+        /eval
+
+    Urban Dictionary:
+        /ud
+
+    Broadcast:
+        /broadcastall
+        /broadcastusers
+        /broadcastgroups
+        /groups
+
+    Warn:
+        /warns
+        /warnlist
+        /warn
+        /dwarn
+        /resetwarn
+        /addwarn
+        /nowarn
+        /warnlimit
+        /strongwarn
+
+    Welcome:
+        /welcome
+        /goodbye
+        /setwelcome
+        /setgoodbye
+        /resetwelcome
+        /resetgoodbye
+        /cleanwelcome
+        /welcomemutehelp
+        /cleanservice
+        /welcomehelp
+
+Paid:
+    Tier 1 --> Rs50 per module:
+        Chatbot
+        Wikipedia
+        Reddit
+        Pinintrest
+        Nsfw
+        Sfw
+        Google Search Links
+        Google Search Image
+        Google Search News
+        Google Search Videos
+        Web SS
+        Animal Facts
+        Jokes
+        Anime
+        Anime Schedule
+        Anime News Network Latest Feed
+        RSS Feeds
+        9Amine Anime Links
+        Anime Quotes:
+        Anti Nsfw
+        Latest Cricket Scores
+        Crypto Convertor
+        Currency Convertor
+        Fake It
+        English
+        Github
+        Google Translate
+        Karma
+        Logo Maker
+        Pokedex
+        AI generated quotes
+        Song Download
+        Truth and Dare
+        Weather
+        Wallpaper
+        Watch Order
+
+    Tier 2 --> Rs100 per module:
+    
+        Database Migration
+        Image Editor
+        What Anime
+        Youtube Downloader
+
+    Tier 3:
+        Inline Commands --> 25rs per Commands
+
+Note: Paid Tier is gonna keep expanding.

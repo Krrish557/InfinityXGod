@@ -1,0 +1,7 @@
+from tgbot import DEV_USERS, SUDOS, HELPERS
+
+IMMUNE_USERS = SUDOS  + HELPERS  + DEV_USERS
+
+IMMUNE_USERS = (
+    list(SUDOS)  + list(HELPERS) + list(DEV_USERS)
+)
